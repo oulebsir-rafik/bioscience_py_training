@@ -1,0 +1,15 @@
+Price: 20
+Product: T-shirt
+Quantity: 2
+//
+Price: 30
+Product: Jeans
+Quantity: 1
+//
+Price: 10
+Product: Socks
+Quantity: 3
+//
+Price: 50
+Product: Shoes
+Quantity: 1
